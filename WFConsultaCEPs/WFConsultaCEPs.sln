@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFConsultaCEPs", "WFConsultaCEPs\WFConsultaCEPs.csproj", "{3AF64C46-4BB0-4D47-9FAB-6F9BC7520C3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AF64C46-4BB0-4D47-9FAB-6F9BC7520C3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AF64C46-4BB0-4D47-9FAB-6F9BC7520C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AF64C46-4BB0-4D47-9FAB-6F9BC7520C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AF64C46-4BB0-4D47-9FAB-6F9BC7520C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15CA130D-615C-42EC-87C4-7AD6DC714DBC}
+	EndGlobalSection
+EndGlobal
